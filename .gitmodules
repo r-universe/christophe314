@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "kml"]
+	path = kml
+	url = https://github.com/cran/kml
+[submodule "kml3d"]
+	path = kml3d
+	url = https://github.com/cran/kml3d
+[submodule "longitudinalData"]
+	path = longitudinalData
+	url = https://github.com/cran/longitudinalData
